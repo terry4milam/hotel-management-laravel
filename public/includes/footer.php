@@ -53,9 +53,7 @@
   <!-- Copyright -->
   <div class="footer-copyright text-center py-3">
     © 2020 Copyright:
-    <a href="https://github.com/alandsilva26/hotel-management-php/"
-      >Tripple A association</a
-      >
+      Develpment
   </div>
   <!-- Copyright -->
 </footer>
