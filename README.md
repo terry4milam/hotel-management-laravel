@@ -16,10 +16,6 @@
 
 <hr />
 
-#### Please go through entire readme for complete project specifications
-
-## [Preview](https://alandsilva26.github.io/hotel-management-website-template/preview.html)
-#### [Template](https://alandsilva26.github.io/hotel-management-website-template/)
 
 Semester 5 Web Development Lab Mini Project.This projects aims to create a full fleged hotel management system which can be further scaled as per requirement. It includes a modern responsive UI built using bootstrap 4. We have also made extensive use of jquery ajax to perform various network requests. This project covers the following topics
 
@@ -27,10 +23,6 @@ Semester 5 Web Development Lab Mini Project.This projects aims to create a full 
 - Web apps using PHP
 - Database design
 - Ajax
-
-### Resources:
-
-- [Miniproject presentation](https://docs.google.com/presentation/d/1BsYYEompbIkKHtLUARA2gEXiMBr9GAO1wXQCur1SiHk/edit?usp=sharing)
 
 ### NOTE:
 
@@ -60,10 +52,6 @@ Semester 5 Web Development Lab Mini Project.This projects aims to create a full 
 
 All `sass` files are located in `public/scss`. If making changes here run the command `npm run watch-sass` in a seperate terminal. This command watches sass files for any changes and compiles them to css directory.\
 Or you may directly edit the css file in `public/css`.\
-
-#### Side note:
-
-If you just require the frontend files of this project see the project [https://github.com/alandsilva26/hotel-management-website-template](https://github.com/alandsilva26/hotel-management-website-template). Installation instructions in readme.\
 
 ## To-do
 
